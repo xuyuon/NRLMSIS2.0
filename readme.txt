@@ -1,3 +1,8 @@
+Compiling the code:
+`gfortran -std=legacy -O3 -cpp -o msis2.0_test.exe alt2gph.F90 msis_constants.F90 msis_init.F90 msis_gfn.F90 msis_tfn.F90 msis_dfn.F90 msis_calc.F90 msis_gtd8d.F90 msis2.0_test.F90`
+
+
+
 ===============================================================================
 MSIS® (NRL-SOF-014-1) SOFTWARE
 
